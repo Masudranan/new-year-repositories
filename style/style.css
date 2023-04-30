@@ -1,0 +1,211 @@
+*{
+    margin-top: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* header section */
+.header{
+    text-align: right;
+    /* max-width: 100%;
+    max-height: 1900px; */
+    background-image: url('../images/banner/banner1.png');
+    background-size: 100% 500px;
+    margin: 00px;
+    background-color: black;
+}
+.banner-taital{
+    font-size: 59px;
+    max-width: 500px;
+    margin-left: 800px;
+    margin-top: 170px;
+
+}
+.banner-discription{
+    font-size: 20px;
+    max-width:500px;
+    margin-left: 800px;
+    margin-top: 12px;
+
+}
+.btn-primary{
+    display: block;
+    border-radius: 5px;
+    background-color: orange;
+    width: 120px;
+    height: 50px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 1170px;
+
+
+}
+/* my foult section */
+.my-foult{
+    margin-top:300px ;
+    text-align: left;
+    display: block;
+    
+
+}
+.my-foult-tital{
+    max-width: 365px;
+    margin-left: 850px;
+    font-size: 55px;
+    margin-bottom: 52px;
+}
+.my-foult-discription{
+    max-width: 395px;
+    margin-left: 850px;
+    margin-bottom: 22px;
+
+}
+.my-foult-point{
+    text-align: left;
+   margin-left: 415px;
+   margin-bottom: 15px;
+}
+.images{
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 839px;
+/* background-color: lightsalmon; */
+}
+
+.my-plan{
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+display: flex;
+text-align: center;
+max-width: 133px;
+justify-content: baseline;
+gap: 130px;
+
+}
+.my-plan-subtital{
+    max-width: 722px;
+    display: block;
+}
+.my-plan-tital{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 50px;
+    margin-top: 250px;
+   
+}
+.my-plan-subtital{
+    justify-content: baseline;
+    width: 630px;
+    height: 50px;
+
+
+}
+.plan-taital{
+    font-size: 38px;
+    max-width: 330px;
+    font-weight: 400;
+}
+.plan-discription{
+    font-size: 23px;
+    margin-top: 20px;
+}
+/* contact section */
+.my-aime{
+    margin-top: 400px;
+    margin-left: 250PX;
+    display: block;
+    max-width: 1050px;
+    max-height: 1090px;
+    background-image: url(../images/watch.png);
+    background-image: url(../images/gradient1.png);
+    cursor: pointer;
+}
+.my-aime-taital{
+    font-size: 40PX;
+    max-width: 470px;
+    margin-top: 252px;
+    margin-left: 55px;
+   
+}
+.btn-contact{
+    display: block;
+    border-radius: 5px;
+    background-color: orange;
+    width: 140px;
+    height: 60px;
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 55px;
+    margin-bottom: 55px;
+}
+/* footer section */
+.footer-section{
+    display: flex;
+    margin-top: 55px;
+    max-width: 100%;
+    max-height: 1400px;
+    background-color: black;
+}
+.future-tital{
+    margin-top: 100px;
+    color: aliceblue;
+   margin-left: 150px;
+   display: block;
+   font-size: 40px;
+   margin-bottom: 20px;
+}
+.future-discription{
+    color: aliceblue;
+    display: block;
+    max-height: 100px;
+    max-width: 470px;
+    margin-left: 150px;
+}
+.email{
+    color: aliceblue;
+    margin-left: 100px;
+    /* display: block; */
+}
+.contact{
+    color: aliceblue;
+    margin-left: 150px;
+    display: block;
+}
+.icon{
+    margin-left: 150px;
+}
+.subscribe-section{
+    display:block;
+}
+.subscribe{
+    margin-top: 100px;
+    margin-left: 200px;
+    color: aliceblue;
+    font-size: 30px;
+}
+.email{
+    width: 195px;
+    height: 35px;
+    cursor: pointer;
+    margin-left: 200px;
+    color: aliceblue;
+    background-color: black;
+}
+.subscribe-btn{
+    display: block;
+    border-radius: 5px;
+    background-color:aliceblue;
+    width: 140px;
+    height: 50px;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 8px;
+}
